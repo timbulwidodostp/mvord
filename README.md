@@ -1,6 +1,8 @@
 # mvord
 Multivariate Ordinal Regression Models Use mvord With (In) R Software
 
+https://www.youtube.com/watch?v=mmH-kWEYhmY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
